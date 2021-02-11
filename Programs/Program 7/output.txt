@@ -1,0 +1,71 @@
+Student: Paxton Proctor 
+
+*****************************************
+Patient ID:   45812
+Type:         In-patient
+Total Due:    $  1477.20
+
+    3 Days @  $   345.90
+   Other      $   200.00
+   medicines  $   239.50
+*****************************************
+Patient ID:   27992
+Type:         In-patient
+Total Due:    $  4137.30
+
+   10 Days @  $   368.90
+   Other      $   409.30
+   medicines  $    39.00
+*****************************************
+Patient ID:   98982
+Type:         Out-patient
+Total Due:    $   673.80
+
+   Charges    $   459.90
+   Medicines  $   203.90
+   Processing $    10.00
+*****************************************
+Patient ID:   76445
+Type:         Out-patient
+Total Due:    $  2508.54
+
+   Charges    $  2089.54
+   Medicines  $   409.00
+   Processing $    10.00
+*****************************************
+Patient ID:   39873
+Type:         In-patient
+Total Due:    $  1618.21
+
+    2 Days @  $   543.00
+   Other      $   450.22
+   medicines  $    81.99
+*****************************************
+Patient ID:   29874   ERROR
+*****************************************
+Patient ID:   89745
+Type:         Out-patient
+Total Due:    $  1560.23
+
+   Charges    $   987.43
+   Medicines  $   562.80
+   Processing $    10.00
+*****************************************
+Patient ID:   78789   ERROR
+*****************************************
+Patient ID:   11111
+Type:         In-patient
+Total Due:    $ 24499.09
+
+   15 Days @  $   989.98
+   Other      $  8761.40
+   medicines  $   887.99
+*****************************************
+Patient ID:   63588
+Type:         Out-patient
+Total Due:    $  6349.13
+
+   Charges    $  1987.43
+   Medicines  $  4351.70
+   Processing $    10.00
+*****************************************
