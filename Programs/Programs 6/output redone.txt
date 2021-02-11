@@ -1,0 +1,26 @@
+Student: Paxton Proctor 
+
+Account Type   Monthly   Checks   Check Fee   Total
+-----------------------------------------------------
+Business       $ 25.00      55    $  3.30     $ 28.30
+Personal       $  5.00      12    $  0.60     $  5.60
+Business       $ 25.00      85    $  3.40     $ 28.40
+Business       $ 25.00      40    $  2.40     $ 27.40
+Personal       $  5.00     100    $  2.00     $  7.00
+Personal       $  5.00      48    $  1.92     $  6.92
+Business       $ 25.00      10    $  1.00     $ 26.00
+Business       $ 25.00      25    $  2.00     $ 27.00
+Personal       $  5.00      69    $  2.07     $  7.07
+Business       $ 25.00      59    $  3.54     $ 28.54
+Personal       $  5.00       0    $  0.00     $  5.00
+Business       $ 25.00     250    $ 10.00     $ 35.00
+Business       $ 25.00       7    $  0.70     $ 25.70
+Personal       $  5.00      61    $  1.83     $  6.83
+Personal       $  5.00      70    $  1.40     $  6.40
+Personal       $  5.00     400    $  8.00     $ 13.00
+Personal       $  5.00      45    $  1.80     $  6.80
+Personal       $  5.00      46    $  1.84     $  6.84
+Business       $ 25.00     340    $ 13.60     $ 38.60
+Business       $ 25.00     800    $ 32.00     $ 57.00
+Personal       $  5.00       2    $  0.10     $  5.10
+Personal       $  5.00       4    $  0.20     $  5.20
