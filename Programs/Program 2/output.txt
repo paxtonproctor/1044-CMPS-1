@@ -1,0 +1,101 @@
+Student: Paxton Proctor 
+
+Total amount is $ 32.43
+Dollar Bills         32
+Half Dollars          0
+Quarters              1
+Dimes                 1
+Nickels               1
+Pennies               3
+
+
+Total amount is $ 29.29
+Dollar Bills         29
+Half Dollars          0
+Quarters              1
+Dimes                 0
+Nickels               0
+Pennies               4
+
+
+Total amount is $ 12.00
+Dollar Bills         12
+Half Dollars          0
+Quarters              0
+Dimes                 0
+Nickels               0
+Pennies               0
+
+
+Total amount is $ 1.00
+Dollar Bills          1
+Half Dollars          0
+Quarters              0
+Dimes                 0
+Nickels               0
+Pennies               0
+
+
+Total amount is $ 32.45
+Dollar Bills         32
+Half Dollars          0
+Quarters              1
+Dimes                 2
+Nickels               0
+Pennies               0
+
+
+Total amount is $ 99.99
+Dollar Bills         99
+Half Dollars          1
+Quarters              1
+Dimes                 2
+Nickels               0
+Pennies               4
+
+
+Total amount is $ 88.88
+Dollar Bills         88
+Half Dollars          1
+Quarters              1
+Dimes                 1
+Nickels               0
+Pennies               3
+
+
+Total amount is $ 77.77
+Dollar Bills         77
+Half Dollars          1
+Quarters              1
+Dimes                 0
+Nickels               0
+Pennies               2
+
+
+Total amount is $ 66.66
+Dollar Bills         66
+Half Dollars          1
+Quarters              0
+Dimes                 1
+Nickels               1
+Pennies               1
+
+
+Total amount is $ 55.55
+Dollar Bills         55
+Half Dollars          1
+Quarters              0
+Dimes                 0
+Nickels               1
+Pennies               0
+
+
+Total amount is $ 44.44
+Dollar Bills         44
+Half Dollars          0
+Quarters              1
+Dimes                 1
+Nickels               1
+Pennies               4
+
+
